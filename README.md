@@ -3,7 +3,7 @@
 </p>
 
 # UntetherDemo
-Demo for Untethe AI. 
+Demo for Untethe AI. Synthetic data will be automatically generated.
 
 ## Environment
 
